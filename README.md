@@ -1,6 +1,7 @@
 # Hospitality-Monthly-Performance-Dashboard-Power-BI-Project
 Designed and developed a comprehensive Power BI dashboard to visualize and track monthly performance metrics for a hospitality business. The dashboard provided real-time insights into key indicators such as total revenue (₹1.71bn), occupancy rate, cancellation percentage, and average guest rating.
 
+
 Key Features:
 
 🏨 KPI Cards: Showcased high-level business metrics (Revenue, Occupancy, Cancellations, Ratings).
@@ -12,6 +13,7 @@ Key Features:
 🎯 Interactive Filters: Allowed users to drill down by month, city, room class, and category.
 
 🎨 Clean & Modern UI: Used a minimalistic theme with consistent layout and rounded visual tiles for enhanced readability and user experience.
+
 
 Tools & Skills Used:
 * Power BI Desktop
